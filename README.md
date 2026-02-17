@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi iam manoj b 👋
 
 <!--
 **Manoj-b18/Manoj-b18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
